@@ -1,6 +1,7 @@
 # PipesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+1. Clonar el repositorio en local:
+https://github.com/larra93/prueba3it.git
 
 ## Development server
 
